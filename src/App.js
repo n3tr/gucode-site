@@ -25,7 +25,7 @@ class App extends Component {
         <div className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
           <h2>
-            <a className="rainbow" href="https://www.facebook.com/gucodelive/">#กูโค็ด</a>
+            <a className="rainbow" href="https://www.facebook.com/gucodelive/">#กูโค้ด</a>
           </h2>
         </div>
         <img src={this.state.imageUrl} />
